@@ -6,36 +6,141 @@ import FYM4  from '../images/FYM4.jpg'
 
 export const Carousel = () => {
   return (
-    <div className='carousel carousel-center rounded-box w-64 mx-auto'>
-    <div id='item1' className='carousel-item relative w-64'>
-        <img src={FYM1} alt="" className='w-64' />
-        <div className='absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between'>
-            <a href="#item4" className='btn btn-circle'> ❮ </a>
-            <a href="#item2" className='btn btn-circle'> ❯ </a>
+    <>
+        <div className="carousel rounded-box w-64 mx-auto my-10">
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
         </div>
-    </div>
-    <div id='item2' className='carousel-item relative w-96'>
-        <img src={FYM2} alt="" className='w-96' />
-        <div className='absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between'>
-            <a href="#item1" className='btn btn-circle'> ❮ </a>
-            <a href="#item3" className='btn btn-circle'> ❯ </a>
+        <div className="carousel rounded-box w-64 mx-auto my-10">
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
         </div>
-    </div>
-    <div id='item3' className='carousel-item relative w-96'>
-        <img src={FYM3} alt="" className='w-96' />
-        <div className='absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between'>
-            <a href="#item2" className='btn btn-circle'> ❮ </a>
-            <a href="#item4" className='btn btn-circle'> ❯ </a>
+        <div className="carousel rounded-box w-64 mx-auto my-10">
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
+            <div className="carousel-item w-full">
+                <img
+                src={FYM1}
+                className="w-full"
+                alt="Tailwind CSS Carousel component" />
+            </div>
         </div>
-    </div>
-    <div id='item4' className='carousel-item relative w-96'>
-        <img src={FYM4} alt="" className='w-96' />
-        <div className='absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between'>
-            <a href="#item3" className='btn btn-circle'> ❮ </a>
-            <a href="#item1" className='btn btn-circle'> ❯ </a>
-        </div>
-    </div>
-</div>
+    </>
+    
   )
 }
 

@@ -11,6 +11,8 @@ export const PaginaServicios = () => {
             </div>
         </div>
         <div className='flex flex-row ms:flex-wrap'>
+            <Carousel/>
+            
         </div>
     </>
     )
