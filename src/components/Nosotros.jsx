@@ -7,7 +7,7 @@ import proposito from '../images/corona.png';
 export const Nosotros = () => {
     
   return (
-    <section className="flex flex-row ms:flex-wrap ms:w-full text-white font-semibold">
+    <section id='nosotros' className="flex flex-row ms:flex-wrap ms:w-full text-white font-semibold">
         <div className="w-full ms:w-full text-white ">
             <h1 className="text-center font-extrabold text-4xl" data-aos="fade-down" data-aos-duration="1500">Sobre Nosotros</h1>
         </div>
