@@ -1,6 +1,7 @@
 {
   "name": "mora-montajes",
   "version": "0.1.0",
+  "homepage": "https://CrisMesina.github.io/mora-montajes-react",
   "private": true,
   "dependencies": {
     "@fontsource-variable/plus-jakarta-sans": "^5.0.21",
@@ -19,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +47,7 @@
   },
   "devDependencies": {
     "daisyui": "^4.12.10",
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.7",
     "tailwindcss-animated": "^1.1.2"
   }
