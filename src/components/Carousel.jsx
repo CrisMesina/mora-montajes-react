@@ -1,8 +1,6 @@
 import React from 'react'
 import FYM1  from '../images/FYM1.jpg'
-import FYM2  from '../images/FYM2.jpg'
-import FYM3  from '../images/FYM3.jpg'
-import FYM4  from '../images/FYM4.jpg'
+
 
 export const Carousel = () => {
   return (
