@@ -45,7 +45,7 @@ export const Header = () => {
         </div>
         <div id="menu" ref={menuRef} className="w-full block flex-grow lg:flex lg:items-center lg:w-auto font-semibold">
             <div className="text-sm lg:flex-grow">
-                <a href="/mora-montajes-react" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
+                <a href="/mora-montajes-react/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
                     Inicio
                 </a>
                 <a href="#servicios" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
