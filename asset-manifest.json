@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mora-montajes-react/static/css/main.46d151f0.css",
+    "main.css": "/mora-montajes-react/static/css/main.b33a1ac2.css",
     "main.js": "/mora-montajes-react/static/js/main.715640b2.js",
     "static/js/453.96e09ee2.chunk.js": "/mora-montajes-react/static/js/453.96e09ee2.chunk.js",
     "static/media/FYM1.jpg": "/mora-montajes-react/static/media/FYM1.fd3fcb73d750fe14bd72.jpg",
@@ -11,12 +11,12 @@
     "static/media/plus-jakarta-sans-vietnamese-wght-normal.woff2": "/mora-montajes-react/static/media/plus-jakarta-sans-vietnamese-wght-normal.3f12f21f7512541b7a0a.woff2",
     "static/media/plus-jakarta-sans-cyrillic-ext-wght-normal.woff2": "/mora-montajes-react/static/media/plus-jakarta-sans-cyrillic-ext-wght-normal.79a2f8c9f899765ad9c1.woff2",
     "index.html": "/mora-montajes-react/index.html",
-    "main.46d151f0.css.map": "/mora-montajes-react/static/css/main.46d151f0.css.map",
+    "main.b33a1ac2.css.map": "/mora-montajes-react/static/css/main.b33a1ac2.css.map",
     "main.715640b2.js.map": "/mora-montajes-react/static/js/main.715640b2.js.map",
     "453.96e09ee2.chunk.js.map": "/mora-montajes-react/static/js/453.96e09ee2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d151f0.css",
+    "static/css/main.b33a1ac2.css",
     "static/js/main.715640b2.js"
   ]
 }
