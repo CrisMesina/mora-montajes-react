@@ -3,7 +3,3 @@
 @import 'tailwindcss/utilities';
 
 @import '@fontsource-variable/plus-jakarta-sans';
-body{
-  width: 100%;
-  font-family: 'Plus Jakarta Sans Variable', sans-serif;
-}
