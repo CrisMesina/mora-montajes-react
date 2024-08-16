@@ -3,3 +3,8 @@
 @import 'tailwindcss/utilities';
 
 @import '@fontsource-variable/plus-jakarta-sans';
+
+
+#lolete{
+    border: 1px solid red;
+}
