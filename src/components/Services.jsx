@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Services = () => {
   return (
-    <section id="servicios" className="flex flex-row ms:flex-wrap  ms:w-full">
+    <section id="servicios" className="flex flex-row ms:flex-wrap  ms:w-full bg-black">
         <div className="text-white w-full my-5">
             <h1 className="text-center mx-auto text-2xl" data-aos="fade-down" data-aos-duration="2500">Aqui podras encontrar <span className="text-yellow-800">NUESTROS SERVICIOS Y MAQUINARIAS <span className="text-white">:</span> </span> </h1>
         </div>
