@@ -35,7 +35,7 @@ export const Header = () => {
     
     <nav className="flex flex-wrap items-center justify-between p-6 text-center mx-auto my-auto">
         <div className="flex items-center flex-shrink-0 text-white">
-            <img src={Logo} className='w-24' alt="" />
+            <img src={Logo} className='w-16' alt="" />
 
         </div>
         <div className="block lg:hidden">
