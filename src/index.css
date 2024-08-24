@@ -4,7 +4,6 @@
 
 @import '@fontsource-variable/plus-jakarta-sans';
 
-
-#lolete{
-    border: 1px solid red;
+#imagen{
+    border-radius: 46% 54% 25% 75% / 65% 32% 68% 35%;
 }

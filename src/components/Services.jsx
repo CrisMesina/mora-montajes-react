@@ -1,48 +1,27 @@
 import React from 'react'
+import imagen from '../images/nosotros.png'
 
 export const Services = () => {
   return (
-    <section id="servicios" className="flex flex-row ms:flex-wrap  ms:w-full">
-        <div className="text-white w-full my-5">
-            <h1 className="text-center mx-auto text-2xl" data-aos="fade-down" data-aos-duration="2500">Aqui podras encontrar <span className="text-yellow-800">NUESTROS SERVICIOS Y MAQUINARIAS <span className="text-white">:</span> </span> </h1>
+
+    <section className="flex flex-row ms:flex-wrap w-full h-screen text-white">
+      <h1 className='w-full text-center my-auto mx-auto text-4xl font-bold' data-aos="fade-down" data-aos-duration="1500">Estas interesado en nuestros servicios?</h1>
+      <div className='w-mitad flex-row ms:flex-wrap'>      
+        <h1 className='text-center my-10 text-2xl' data-aos="fade-down" data-aos-duration="1500">Lorem ipsum dolor sit amet</h1>
+        <p className='text-xl py-9 px-9' data-aos="fade-down" data-aos-duration="1500">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt vel magni odio. Ut, quaerat pariatur! Non voluptas amet quae quidem corrupti et, ad modi sunt assumenda odio, nisi delectus aperiam!
+        </p>
+        <div className='w-96 text-center mx-auto my-14'>
+          <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"  data-aos="fade-down" data-aos-duration="1500">
+            <span className='w-full'>
+              <a href="#servicios" className='w-full'>Ver Servicios</a>
+            </span>
+          </button>        
         </div>
-        <div className="flex flex-row ms:flex-wrap place-content-between my-10">
-           
-            <div id="xd" className="w-64 bg-cyan-950 text-white rounded mx-20 my-10 shadow-xl shadow-white hover:scale-125" data-aos="fade-down" data-aos-duration="2500">
-                <div> 
-                    <img src="https://okdiario.com/img/2018/04/27/como-soldar-aluminio-pasos-620x349.jpg" className="w-80 rounded-b-none brightness-50 hover:brightness-100" alt=""/>
-                </div>
-                <div className="bg-cyan-950">
-                    <h1 className="text-center">Planimetría, detalles y fabricación</h1>
-                    <button className="ml-12 my-2 border-2 rounded-full bg-blue-600 border-none w-40 hover:animate-wiggle animate-infinite">
-                        <a href="/servicios" className="p-1">Ver mas</a>
-                    </button>
-                </div>
-            </div>
-            <div id="xd" className="w-64 bg-cyan-950 text-white rounded mx-20 my-10 shadow-xl shadow-white hover:scale-125" data-aos="fade-down" data-aos-duration="2500">
-                <div>
-                    <img src="https://okdiario.com/img/2018/04/27/como-soldar-aluminio-pasos-620x349.jpg" className="w-80 rounded-b-none brightness-50 hover:brightness-100" alt=""/>
-                </div>
-                <div className="bg-cyan-950">
-                    <h1 className="text-center">Transportadores de banda para productos granel y cajas</h1>
-                    <button className="ml-12 my-2 border-2 rounded-full bg-blue-600 border-none w-40 hover:animate-wiggle animate-infinite">
-                        <a href="/servicios" className="p-1">Ver mas</a>
-                    </button>
-                </div>
-            </div>
-            <div id="xd" className="w-64 bg-cyan-950 text-white rounded mx-20 my-10 shadow-xl shadow-white hover:scale-125" data-aos="fade-down" data-aos-duration="2500">
-                <div>
-                    <img src="https://okdiario.com/img/2018/04/27/como-soldar-aluminio-pasos-620x349.jpg" className="w-80 rounded-b-none brightness-50 hover:brightness-100" alt=""/>
-                </div>
-                <div className="bg-cyan-950">
-                    <h1 className="text-center">Estructuras y Plataformas Acero Carbono e Inoxidable</h1>
-                    <button className="ml-12 my-2 border-2 rounded-full bg-blue-600 border-none w-40 hover:animate-wiggle animate-infinite">
-                        <a href="/servicios" className="p-1">Ver mas</a>
-                    </button>
-                </div>
-            </div>
-            
-        </div>
+      </div>
+      <div className='w-mitad'>
+        <img id='imagen' src={imagen} alt='' className='w-full h-auto mx-auto my-auto rounded-bl-lg invisible md:visible'  data-aos="fade-down" data-aos-duration="1500"/>
+      </div>
     </section>
   )
 }
