@@ -3,7 +3,6 @@ import { Carousel } from './Carousel'
 
 export const PaginaServicios = () => {
   return (
-            <div className='w-full text-center mx-10'>
     <div className="flex flex-row ms:flex-wrap w-full pb-2 mt-20">
         <div className='w-full h-screen'>
             <div className='w-full' >
