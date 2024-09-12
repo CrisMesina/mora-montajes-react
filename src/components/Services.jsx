@@ -4,7 +4,7 @@ import imagen from '../images/nosotros.png'
 export const Services = () => {
   return (
 
-    <section className="flex flex-row ms:flex-wrap w-full h-screen text-white">
+    <section id="servicios" className="flex flex-row ms:flex-wrap w-full h-screen text-white">
       <h1 className='w-full text-center my-auto mx-auto text-4xl font-bold' data-aos="fade-down" data-aos-duration="1500">Estas interesado en nuestros servicios?</h1>
       <div className='w-mitad flex-row ms:flex-wrap'>      
         <h1 className='text-center my-10 text-2xl' data-aos="fade-down" data-aos-duration="1500">Lorem ipsum dolor sit amet</h1>

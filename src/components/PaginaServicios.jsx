@@ -1,5 +1,4 @@
 import React from 'react'
-import { Carousel } from './Carousel'
 
 export const PaginaServicios = () => {
   return (
@@ -26,7 +25,7 @@ export const PaginaServicios = () => {
             </div>
         </div>
         <div className='w-full h-screen'>   
-            s
+            
         </div>
     </div>
     )
