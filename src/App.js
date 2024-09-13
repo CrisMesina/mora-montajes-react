@@ -4,7 +4,9 @@ import './App.css';
 import { Home } from './components/Home';
 import { Header } from './components/Header';
 import { Servicios } from './components/Servicios';
+import { Transportadores } from './components/Transportadores'
 import { Routes, Route, HashRouter } from 'react-router-dom';
+import { FyM } from './components/FyMImages';
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
         <Routes>
           <Route exact path='/' element={<Home/>} />
           <Route exact path='/servicios' element={<Servicios/>}/>
+          <Route exact path='/servicios/FyM' element={<FyM/>}/>
+          <Route exact path='/servicios/Transportadores' element={<Transportadores/>}/>
         </Routes>
       </HashRouter>
     </div>

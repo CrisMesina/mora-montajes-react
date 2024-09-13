@@ -48,13 +48,13 @@ export const Header = () => {
                 <a href="/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
                     Inicio
                 </a>
-                <a href="/#servicios" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
+                <a href="/#servicios/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
                     Servicios
                 </a>
-                <a href="/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
+                <a href="#nosotros" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
                     Sobre Nosotros
                 </a>
-                <a href="/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500">
+                <a href="#contacto" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500">
                     Contactanos
                 </a>
             </div>
