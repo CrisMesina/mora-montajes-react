@@ -50,7 +50,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/servicios/FyM" className="hover:text-blue-600">Planimetría y fabricación</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/FyM" className="hover:text-blue-600">Planimetría y fabricación</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -58,7 +58,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/servicios/Transportadores" className="hover:text-blue-600">Transportadores de banda</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/Transportadores" className="hover:text-blue-600">Transportadores de banda</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -66,7 +66,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Estructuras y Plataformas Acero</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Estructuras y Plataformas Acero</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -74,7 +74,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Montaje de estructuras metálicas</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Montaje de estructuras metálicas</a></span>
                         </div>
                     </li>
                     
@@ -85,7 +85,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Servicios de Corte CNC</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Servicios de Corte CNC</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -93,7 +93,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Piping en Acero Inoxidable</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Piping en Acero Inoxidable</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -101,7 +101,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Servicios de soldadura</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Servicios de soldadura</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -109,7 +109,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/" className="hover:text-blue-600">Mano de Obra Calificada</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Mano de Obra Calificada</a></span>
                         </div>
                     </li>
                 </div>
