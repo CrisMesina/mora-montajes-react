@@ -35,8 +35,8 @@ export function FyM() {
  
   return (
     <>
-        <h1 className='text-center font-extrabold text-4xl my-5'>Planimetria y Fabricacion</h1>
-        <div className="grid gap-4 my-5">
+        <h1 className='text-center font-extrabold text-4xl my-5 animate-fade-down animate-duration-[3000ms]'>Planimetria y Fabricacion</h1>
+        <div className="grid gap-4 my-5 animate-fade-down animate-duration-[3000ms]">
         <div>
           <img
             className="h-auto w-mitad mx-auto max-w-full rounded-lg object-cover object-center md:h-[480px]"
@@ -44,7 +44,7 @@ export function FyM() {
             alt=""
           />
         </div>
-        <div className="grid mx-auto grid-cols-5 gap-4">
+        <div className="grid mx-auto grid-cols-5 gap-4 animate-fade-down animate-duration-[3000ms]">
           {data.map(({ imgelink }, index) => (
             <div key={index}>
               <img

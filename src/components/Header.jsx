@@ -35,8 +35,9 @@ export const Header = () => {
     
     <nav className="flex flex-wrap items-center justify-between p-6 text-center mx-auto my-auto">
         <div className="flex items-center flex-shrink-0 text-white">
-            <img src={Logo} className='w-16' alt="" />
-
+            <a href="/mora-montajes-react/">
+              <img src={Logo} className='w-16' alt="" />
+            </a>
         </div>
         <div className="block lg:hidden">
             <button id="boton" ref={botonRef} className="items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
@@ -45,9 +46,7 @@ export const Header = () => {
         </div>
         <div id="menu" ref={menuRef} className="w-full block flex-grow lg:flex lg:items-center lg:w-auto font-semibold">
             <div className="text-sm lg:flex-grow">
-                <a href="/mora-montajes-react/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
-                    Inicio
-                </a>
+
                 <a href="/mora-montajes-react/#servicios/" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-500 mr-8">
                     Servicios
                 </a>
