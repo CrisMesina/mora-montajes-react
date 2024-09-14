@@ -1,10 +1,15 @@
 {
   "files": {
     "main.css": "/mora-montajes-react/static/css/main.0bdb84c6.css",
-    "main.js": "/mora-montajes-react/static/js/main.98a0879c.js",
+    "main.js": "/mora-montajes-react/static/js/main.cbdde71f.js",
     "static/js/453.96e09ee2.chunk.js": "/mora-montajes-react/static/js/453.96e09ee2.chunk.js",
+    "static/media/MEM2.jpeg": "/mora-montajes-react/static/media/MEM2.ad55fb1734f1dc26240c.jpeg",
+    "static/media/MEM3.jpeg": "/mora-montajes-react/static/media/MEM3.66131d877b5d073b13bd.jpeg",
+    "static/media/MEM4.jpeg": "/mora-montajes-react/static/media/MEM4.0de0bd5bab7359387d7e.jpeg",
     "static/media/FYM1.jpg": "/mora-montajes-react/static/media/FYM1.fd3fcb73d750fe14bd72.jpg",
     "static/media/Transp.jpg": "/mora-montajes-react/static/media/Transp.54cfe38ef11fd624181b.jpg",
+    "static/media/MEM.jpeg": "/mora-montajes-react/static/media/MEM.75101d7dad7b98ab4fae.jpeg",
+    "static/media/MEM5.JPEG": "/mora-montajes-react/static/media/MEM5.f350f35c55401e40c611.JPEG",
     "static/media/Transp3.jpg": "/mora-montajes-react/static/media/Transp3.57c93294b72dbf1bcca5.jpg",
     "static/media/Transp5.jpg": "/mora-montajes-react/static/media/Transp5.8d14870dd4cb25355910.jpg",
     "static/media/Transp4.jpg": "/mora-montajes-react/static/media/Transp4.1614c0b5879093dc9699.jpg",
@@ -13,7 +18,12 @@
     "static/media/Transp2.jpg": "/mora-montajes-react/static/media/Transp2.1fcd11563fe0cc39da50.jpg",
     "static/media/FYM2.jpg": "/mora-montajes-react/static/media/FYM2.fa9184c743ba2bc80618.jpg",
     "static/media/FYM4.jpg": "/mora-montajes-react/static/media/FYM4.e359625607d87e220193.jpg",
+    "static/media/acero.jpg": "/mora-montajes-react/static/media/acero.230030024b38d7f65f13.jpg",
     "static/media/nosotros.png": "/mora-montajes-react/static/media/nosotros.aae566b6c70fa5a0f46f.png",
+    "static/media/acero3.jpg": "/mora-montajes-react/static/media/acero3.902e3bdf5f1efe06a69f.jpg",
+    "static/media/acero4.jpg": "/mora-montajes-react/static/media/acero4.0d578769521f0feb3274.jpg",
+    "static/media/acero5.jpg": "/mora-montajes-react/static/media/acero5.08d6fa257fefd20d0e97.jpg",
+    "static/media/acero2.jpg": "/mora-montajes-react/static/media/acero2.b60d0a97057e4e0d2ce3.jpg",
     "static/media/plus-jakarta-sans-latin-wght-normal.woff2": "/mora-montajes-react/static/media/plus-jakarta-sans-latin-wght-normal.268600317e795cfdc5c5.woff2",
     "static/media/logo.png": "/mora-montajes-react/static/media/logo.2fe3f96802b86b82cb7f.png",
     "static/media/plus-jakarta-sans-latin-ext-wght-normal.woff2": "/mora-montajes-react/static/media/plus-jakarta-sans-latin-ext-wght-normal.22a36a194fc0085de3f2.woff2",
@@ -21,11 +31,11 @@
     "static/media/plus-jakarta-sans-cyrillic-ext-wght-normal.woff2": "/mora-montajes-react/static/media/plus-jakarta-sans-cyrillic-ext-wght-normal.79a2f8c9f899765ad9c1.woff2",
     "index.html": "/mora-montajes-react/index.html",
     "main.0bdb84c6.css.map": "/mora-montajes-react/static/css/main.0bdb84c6.css.map",
-    "main.98a0879c.js.map": "/mora-montajes-react/static/js/main.98a0879c.js.map",
+    "main.cbdde71f.js.map": "/mora-montajes-react/static/js/main.cbdde71f.js.map",
     "453.96e09ee2.chunk.js.map": "/mora-montajes-react/static/js/453.96e09ee2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bdb84c6.css",
-    "static/js/main.98a0879c.js"
+    "static/js/main.cbdde71f.js"
   ]
 }
