@@ -4,7 +4,7 @@ import { Footer } from './Footer'
 export const Servicios = () => {
   return (
     <>
-    <div className="flex flex-row ms:flex-wrap w-full pb-2 mt-20">
+    <div className="flex flex-row ms:flex-wrap w-full pb-2 mt-20 text-white">
         <div className='w-full h-96'>
             <div className='w-full' >
                 <h1 className='text-center font-extrabold text-6xl'>Servicios!</h1>

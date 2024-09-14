@@ -15,7 +15,7 @@ export const Nosotros = () => {
             <h3 className="text-start ml-20 mt-5 text-2xl" data-aos="fade-right" data-aos-duration="1500">Conócenos</h3>
             <div className="w-547 ms:w-auto my-10 mx-20">
                 <p className="text-xl mx-auto my-auto" data-aos="fade-right" data-aos-duration="1500">
-                    Somos una empresa especilizada en fabricación y montaje de equipos de proces, destinados a la industria alimenticia, centrales hidroeléctricas de paso, mineria y química.
+                    Somos una empresa especilizada en fabricación y montaje de equipos de procesos, destinados a la industria alimenticia, centrales hidroeléctricas de paso, mineria y química.
                 </p>
             </div>
         </div>
@@ -40,7 +40,7 @@ export const Nosotros = () => {
                 </div>
                 <div className="text-center ">
                     <h3 className="mb-5">Vision</h3>
-                    <p className="text-center mb-5">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut libero qui molestias. Modi praesentium nulla accusantium maiores aperiam</p>
+                    <p className="text-center mb-5">Lo que buscamos es poder facilitar el trabajo en algunas areas, tales como industrias alimenticias, centrales hidroeléctricas de paso, mineria y quimica</p>
                 </div>
             </div>
             <div className="flex ms:flex-wrap w-64 h-auto mx-20 my-10 bg-plomitoxd rounded-2xl hover:scale-105" data-aos="fade-down" data-aos-duration="2000">
@@ -49,7 +49,7 @@ export const Nosotros = () => {
                 </div>
                 <div className="text-center">
                     <h3 className="mb-5">Proposito</h3>
-                    <p className="text-center mb-5">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut libero qui molestias. Modi praesentium nulla accusantium maiores aperiam</p>
+                    <p className="text-center mb-5">Nuestro proposito es la busqueda de la reduccion de tiempo en los trabajos. Poder lograr comodidad con nuestros servicios.</p>
                 </div>
             </div>
         </div>
