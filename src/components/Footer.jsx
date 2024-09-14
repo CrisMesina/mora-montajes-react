@@ -66,7 +66,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Estructuras y Plataformas Acero</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/Acero/" className="hover:text-blue-600">Estructuras y Plataformas Acero</a></span>
                         </div>
                     </li>
                     <li className="mx-5 my-2">
@@ -74,7 +74,7 @@ export const Footer = () => {
                             <div className='w-9'>
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
-                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Montaje de estructuras metálicas</a></span>
+                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/Montajes/" className="hover:text-blue-600">Montaje de estructuras metálicas</a></span>
                         </div>
                     </li>
                     
@@ -102,14 +102,6 @@ export const Footer = () => {
                                 <img src={flecha} className='w-9' alt="" />
                             </div>
                             <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Servicios de soldadura</a></span>
-                        </div>
-                    </li>
-                    <li className="mx-5 my-2">
-                        <div className="flex">
-                            <div className='w-9'>
-                                <img src={flecha} className='w-9' alt="" />
-                            </div>
-                            <span className="mx-2" ><a href="/mora-montajes-react/#servicios/" className="hover:text-blue-600">Mano de Obra Calificada</a></span>
                         </div>
                     </li>
                 </div>

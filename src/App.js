@@ -6,6 +6,8 @@ import { Header } from './components/Header';
 import { Servicios } from './components/Servicios';
 import { Transportadores } from './components/Transportadores'
 import { Routes, Route, HashRouter } from 'react-router-dom';
+import { Acero } from './components/Acero';
+import { Montajes } from './components/Montajes';
 import { FyM } from './components/FyMImages';
 
 function App() {
@@ -16,9 +18,11 @@ function App() {
 
         <Routes>
           <Route exact path='/' element={<Home/>} />
-          <Route exact path='/servicios' element={<Servicios/>}/>
-          <Route exact path='/servicios/FyM' element={<FyM/>}/>
-          <Route exact path='/servicios/Transportadores' element={<Transportadores/>}/>
+          <Route exact path='/servicios/' element={<Servicios/>}/>
+          <Route exact path='/servicios/FyM/' element={<FyM/>}/>
+          <Route exact path='/servicios/Transportadores/' element={<Transportadores/>}/>
+          <Route exact path='/servicios/Acero/' element={<Acero/>}/>
+          <Route exact path='/servicios/Montajes/' element={<Montajes/>}/>
         </Routes>
       </HashRouter>
     </div>

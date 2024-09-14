@@ -13,10 +13,10 @@ export const Servicios = () => {
             <div  className='w-full'>
                 <ul className='w-full'>
                     <div  className='my-2 mx-23'>
-                        <a href="/mora-montajes-react/#servicios/FyM" className='mx-2 underline hover:text-blue-700' >Planimetria y Fabricacion</a>
-                        <a href="/mora-montajes-react/#servicios/Transportadores" className='mx-2 underline hover:text-blue-700' >Transportadores de banda</a>
-                        <a href="/mora-montajes-react/#servicios/fym" className='mx-2 underline hover:text-blue-700' >Estructuras y plataformas de acero</a>
-                        <a href="/mora-montajes-react/#servicios/fym" className='mx-2 underline hover:text-blue-700' >Montaje de Estructuras metalicas</a>
+                        <a href="/mora-montajes-react/#servicios/FyM/" className='mx-2 underline hover:text-blue-700' >Planimetria y Fabricacion</a>
+                        <a href="/mora-montajes-react/#servicios/Transportadores/" className='mx-2 underline hover:text-blue-700' >Transportadores de banda</a>
+                        <a href="/mora-montajes-react/#servicios/Acero/" className='mx-2 underline hover:text-blue-700' >Estructuras y plataformas de acero</a>
+                        <a href="/mora-montajes-react/#servicios/Montajes/" className='mx-2 underline hover:text-blue-700' >Montaje de Estructuras metalicas</a>
                     </div>
                     <div className='my-2 mx-23'>
                         <a href="/mora-montajes-react/#servicios/fym" className='mx-2 my-5 underline hover:text-blue-700' >Servicios de Corte CNC</a>
