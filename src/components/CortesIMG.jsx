@@ -48,7 +48,7 @@ export function CortesIMG(){
 
     return(
         <>
-        <h1 className="text-center font-extrabold text-4xl my-5 animate-fade-down animate-duration-[3000ms]">
+        <h1 className="text-center text-white font-extrabold text-4xl my-5 animate-fade-down animate-duration-[3000ms]">
             Cortes CNC
         </h1>
         <div className="grid gap-4 my-5 animate-fade-down animate-duration-[3000ms]">
