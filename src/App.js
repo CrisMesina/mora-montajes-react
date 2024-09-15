@@ -9,6 +9,8 @@ import { Routes, Route, HashRouter } from 'react-router-dom';
 import { Acero } from './components/Acero';
 import { Montajes } from './components/Montajes';
 import { FyM } from './components/FyMImages';
+import { Piping } from './components/Piping';
+import { CortesCNC } from './components/CortesCNC';
 
 function App() {
   return (
@@ -23,6 +25,9 @@ function App() {
           <Route exact path='/servicios/Transportadores/' element={<Transportadores/>}/>
           <Route exact path='/servicios/Acero/' element={<Acero/>}/>
           <Route exact path='/servicios/Montajes/' element={<Montajes/>}/>
+          <Route exact path='/servicios/Piping/' element = { <Piping/>} />
+          <Route exact path='/servicios/CortesCNC/' element = { <CortesCNC/>} />
+
         </Routes>
       </HashRouter>
     </div>

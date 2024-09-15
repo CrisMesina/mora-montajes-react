@@ -19,9 +19,8 @@ export const Servicios = () => {
                         <a href="/mora-montajes-react/#servicios/Montajes/" className='mx-2 underline hover:text-blue-700' >Montaje de Estructuras metalicas</a>
                     </div>
                     <div className='my-2 mx-23'>
-                        <a href="/mora-montajes-react/#servicios/fym" className='mx-2 my-5 underline hover:text-blue-700' >Servicios de Corte CNC</a>
-                        <a href="/mora-montajes-react/#servicios/fym" className='mx-2 my-5 underline hover:text-blue-700' >Piping de acero inoxidable</a>
-                        <a href="/mora-montajes-react/#servicios/fym" className='mx-2 my-5 underline hover:text-blue-700' >Servicios de soldadura</a>
+                        <a href="/mora-montajes-react/#servicios/CortesCNC/" className='mx-2 my-5 underline hover:text-blue-700' >Servicios de Corte CNC</a>
+                        <a href="/mora-montajes-react/#servicios/Piping/" className='mx-2 my-5 underline hover:text-blue-700' >Piping de acero inoxidable</a>
                     </div>
                 </ul>
             </div>
