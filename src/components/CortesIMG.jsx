@@ -20,6 +20,27 @@ export function CortesIMG(){
         {
             Imagen: Corte,
         },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
+        {
+            Imagen: Corte,
+        },
     ];
     const [active, setActive] = React.useState(
         Corte,
@@ -38,7 +59,7 @@ export function CortesIMG(){
                     className="h-auto w-mitad mx-auto max-w-full rounded-lg object-cover object-center md:h-[480px]" 
                 />
             </div>
-            <div className="grid mx-auto grid-cols-5 gap-4 animate-fade-down animate-duration-[3000ms]">
+            <div className="grid mx-auto grid-cols-12 gap-4 animate-fade-down animate-duration-[3000ms]">
                 {
                     data.map(({Imagen}, index) =>(
                         <div key={index}>
